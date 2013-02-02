@@ -1,0 +1,4 @@
+Release changes v0.2
+
+1. Favicon added. (Please clear your browser Cache)
+2. "Are you game?" and "Robo Rebels" pages added with tabs to fit all 4 respective events.
